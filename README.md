@@ -1,4 +1,4 @@
-# VerisSlots
+# VeriSlots
 A Slot Machine Simulation for the NexysA7 50t written in Verilog
 
 ## Setup and Testing
