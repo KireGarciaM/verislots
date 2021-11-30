@@ -6,7 +6,7 @@ I personally prefer **Xilinx's Vivado** from https://www.xilinx.com/products/des
 
 Xilinx has great video setup guides incase you need them: https://www.xilinx.com/video/hardware/getting-started-with-the-vivado-ide.html
 
-## How to Contribute!
+## Contributing
 If any issues are found make sure to put them in the issues section, fork the branch, and setup locally.
 
 If you have any ideas for enhancements or bugs, create a new issue for approval.
