@@ -16,7 +16,7 @@ if not using the Nexys A7-50t.
 
 When you're finished with an issue, you can open up a pull requests and a review will take place before any merges.
 
-## Coding Standards
+## Coding
 Anything works as long as the code is:
   - written in Verilog
   - organized and consistent
